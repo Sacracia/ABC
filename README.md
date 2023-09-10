@@ -30,7 +30,7 @@
 
 <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption><p>Результат</p></figcaption></figure>
 
-## Задача 5 (add-int02.s)
+## Задача 6 (add-int02.s)
 
 <figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption><p>Тело программы</p></figcaption></figure>
 
